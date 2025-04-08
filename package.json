@@ -1,5 +1,5 @@
 {
-  "name": "google_meet",
+  "name": "socketio_webrtc-video-meet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
